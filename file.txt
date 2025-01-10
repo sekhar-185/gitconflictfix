@@ -1,2 +1,6 @@
 main file.
+
 adding lines from conflict branch
+
+line from branch 3
+
